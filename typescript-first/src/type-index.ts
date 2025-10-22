@@ -37,7 +37,7 @@ let countryCodes: countryCodes = {
 //연습!
 
 type CountryNumberCodes = {
-    [key: string]: number
+    [key: string]: number;
 }
 
 let countryNumberCodes:CountryNumberCodes = {
