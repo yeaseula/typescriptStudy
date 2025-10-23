@@ -35,7 +35,7 @@ type Book = {       //여기가 슈퍼타입
     price: number;
 }
 
-type ProgrammingBook = {    //여기거 서브타입이 됩니다
+type ProgrammingBook = {    //여기가 서브타입이 됩니다
     name: string;
     price: number;
     skill: string;
